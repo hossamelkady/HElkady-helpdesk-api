@@ -1,5 +1,5 @@
 {
-  "name": "hossamelkady/HElkady-helpdesk-api",
+  "name": "hossamelkady/helpdesk-api",
   "type": "project",
   "description": "A support-ticket API with priorities, assignment, and lifecycle states.",
   "keywords": ["laravel", "php", "rest-api", "portfolio"],
